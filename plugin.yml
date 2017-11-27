@@ -1,0 +1,9 @@
+main: me.KingFrozo.RPGPlus.Main
+name: Mythos
+version: 1.0
+author: KingFrozo
+
+commands:
+  stats:
+  setclass:
+  
